@@ -4,5 +4,5 @@
 ![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printmag.com%2Fdesign-news%2Fsomeone-just-bought-a-gif-for-half-a-million-dollars%2F&psig=AOvVaw0CDnUnpIuRw8es3dByteRU&ust=1679140399225000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCF08rz4v0CFQAAAAAdAAAAABA9](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1))
 
 <p align="center">
-  ![](zaouich.gif)
+  <img src="zaouich.gif"/>
 </p>
